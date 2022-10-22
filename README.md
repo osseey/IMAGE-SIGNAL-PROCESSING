@@ -1,0 +1,1 @@
+# Real-time-Temperature-Monitoring-with-Google-Cloud-Platform[Project Google Cloud IoT Monitoring du Node MCU.pptx](https://github.com/osseey/Real-time-Temperature-Monitoring-with-Google-Cloud-Platform/files/9843816/Project.Google.Cloud.IoT.Monitoring.du.Node.MCU.pptx)
